@@ -1,5 +1,5 @@
 ## SMS Spam Classification System
-The Email/SMS Spam Classifier is a machine learning project that identifies whether a given message is spam or not. It uses Natural Language Processing (NLP) techniques (Stemming and TF-IDF Vectorization) for text transformation and a trained Multinomial Naive Bayes Classifier for predictions.
+The Email/SMS Spam Classifier is a machine learning project that identifies whether a given message is spam or not. It uses Natural Language Processing (NLP) techniques (Stemming and TF-IDF Vectorization) for text transformation and a trained Bernoulli Naive Bayes Classifier for predictions.
 ## Directory Structure:
 ```
 Directory structure:
